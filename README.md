@@ -19,3 +19,6 @@ yarn run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+![Screenshot 2022-07-04 161641](https://user-images.githubusercontent.com/64348740/177139835-2eab8c3a-5aad-4fee-8473-74838550e054.png)
+![Screenshot 2022-07-04 161727](https://user-images.githubusercontent.com/64348740/177139778-88f55c48-2a17-44c0-a37a-5ed0469c6ab1.png)
