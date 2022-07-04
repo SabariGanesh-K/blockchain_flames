@@ -1,5 +1,3 @@
-Blockchain website that allows users to mint a ERC721 token (NFT) for their loved ones. All they have to do is connect their wallet
-,play the popular game FLAMES and  mint a NFT !!
 
 ## CONTRACT
 First, deploy the contract server:
